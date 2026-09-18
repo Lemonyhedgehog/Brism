@@ -1,0 +1,27 @@
+.theme-dark .markdown-rendered {
+    color: #e5dfea;
+}
+
+.theme-dark .markdown-rendered h1 {
+    color: #c49de0;
+}
+
+.theme-dark .markdown-rendered h2 {
+    color: #b88bd8;
+}
+
+.theme-dark .markdown-rendered h3 {
+    color: #ad7dce;
+}
+
+.theme-dark .markdown-rendered h4 {
+    color: #a474c5;
+}
+
+.theme-dark .markdown-rendered h5 {
+    color: #9b6bbb;
+}
+
+.theme-dark .markdown-rendered h6 {
+    color: #9162b0;
+}
