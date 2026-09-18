@@ -1,0 +1,6 @@
+# If you want to use this or customise it then follow the steps:
+1. Navigate to (vault name)/.obsidian/snippets via terminal 
+2. type git clone ( link of the css file)
+3. open obsidian 
+4. go to settings/css snippets 
+5. you'll see the file, turn it on 
